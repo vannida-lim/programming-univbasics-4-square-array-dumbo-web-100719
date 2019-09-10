@@ -5,6 +5,6 @@ def square_array(array)
     array[index] = squared
     index += 1
   end
-  puts array
+  array
 end 
 
