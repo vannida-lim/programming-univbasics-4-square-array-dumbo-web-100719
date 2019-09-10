@@ -7,5 +7,7 @@ def square_array(array)
     puts array
     index += 1
   end
+  
+  array
 end 
 
