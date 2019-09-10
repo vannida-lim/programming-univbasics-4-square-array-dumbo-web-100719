@@ -3,11 +3,8 @@ def square_array(array)
   while index < array.length 
     array[index] * array[index]
     array[index] = squared
-    puts 'checking ---'
-    puts array
     index += 1
   end
   
-  array
 end 
 
